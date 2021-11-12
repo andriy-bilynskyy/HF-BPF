@@ -14,7 +14,7 @@ The design is created to use together with SDR receivers due to problematic rece
 
 - **HF-BPF.asc** - LTspice simulation.  https://www.analog.com/en/design-center/design-tools-and-calculators/ltspice-simulator.html
 
-- **HF-BPF.pro** - KiCad project. https://kicad-pcb.org/
+- **HF-BPF.pro** - KiCad project. https://kicad.org/
 
 - **HF-BPF.sch** - KiCad schematic.
 
